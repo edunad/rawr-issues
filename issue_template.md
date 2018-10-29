@@ -1,7 +1,7 @@
-- [ ] Is it the mobile version?
+### App platform
+- [ ] Mobile app
+- [ ] Windows app
+------
 
-- Version number :
-- Current page / component :
+- Version number : v0.0.
 - Description :
-
------
